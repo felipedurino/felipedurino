@@ -4,11 +4,7 @@
 ###
 
 <div align="center">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=felipedurino&show_icons=true&theme=dracula&hide_border=true&v=2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipedurino&layout=compact&theme=dracula&v=2)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipedurino&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ###
