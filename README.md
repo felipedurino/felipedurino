@@ -1,4 +1,5 @@
-<p align="left">👋 Olá! Sou Felipe, desenvolvedor em Java, Spring Boot e Angular.<br>🎓 Estudante de Ciência da Computação.</p>
+<p align="left">👋 Olá! Sou Felipe<br>Junior Full Stack Developer | ☕ Java & Spring Boot | 🅰️ Angular | Apaixonado por Clean Code e Arquitetura de Software. Construindo soluções escaláveis.
+</p>
 
 ###
 
