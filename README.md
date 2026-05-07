@@ -1,4 +1,4 @@
-<p align="left">👋 Olá! Sou Felipe<br>Junior Full Stack Developer | ☕ Java & Spring Boot | 🅰️ Angular | Apaixonado por Clean Code e Arquitetura de Software. Construindo soluções escaláveis.
+<p align="left">👋 Olá! Sou Felipe<br> Full Stack Developer | ☕ Java & Spring Boot | 🅰️ Angular | Apaixonado por Clean Code e Arquitetura de Software. Construindo soluções escaláveis.
 </p>
 
 ###
